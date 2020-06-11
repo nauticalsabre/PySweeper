@@ -148,7 +148,7 @@ Version 0.6
 	- panel class:
 		> panels will now call update() to any imagesurfaces and textboxs in panel's children_sprites list
 	
-Version 0.6
+Version 0.7
 	Features:
 	- block clicking and flagging (unable to click flagged blocks)
 	- expanding clicks (middle-clicking on a blank block will click on nearby blocks)
