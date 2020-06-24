@@ -1,6 +1,6 @@
 Creation Date: 5-25-2020
 Author: Tyler Hanson
-Current Version 0.5
+Current Version 0.7
 
 Version 0.1
 	Features:
